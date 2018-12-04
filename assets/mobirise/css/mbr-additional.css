@@ -46,10 +46,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.44rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -656,13 +656,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.44rem;
 }
 .form-control,
 .form-control:focus {
@@ -1380,12 +1380,12 @@ body {
 }
 .cid-raI2YYHXtV .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-raI2YYHXtV .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-raI2YYHXtV a {
   font-style: normal;
@@ -1469,7 +1469,7 @@ body {
   padding-bottom: 0;
 }
 .cid-raI2YYHXtV .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1540,7 +1540,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #0f7699;
 }
 .cid-raI2YYHXtV button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1765,7 +1765,7 @@ body {
 }
 .cid-raI2YYHXtV .nav-link:hover,
 .cid-raI2YYHXtV .dropdown-item:hover {
-  color: #cccccc !important;
+  color: #0f7699 !important;
 }
 .cid-raI3SfS9E4 {
   background-image: url("../../../assets/images/background1.jpg");
@@ -1783,9 +1783,11 @@ body {
 }
 .cid-raI3SfS9E4 H1 {
   text-align: left;
+  color: #7f1933;
 }
 .cid-raI3SfS9E4 P {
   text-align: left;
+  color: #232323;
 }
 .cid-raI8fxitcC {
   background-image: url("../../../assets/images/background6.jpg");
@@ -1926,6 +1928,7 @@ body {
 }
 .cid-rb30vfv3vb .mbr-text {
   color: #232323;
+  text-align: left;
 }
 .cid-rb30vfv3vb .card-wrapper {
   height: 100%;
@@ -2336,12 +2339,12 @@ body {
 }
 .cid-raI2YYHXtV .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-raI2YYHXtV .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-raI2YYHXtV a {
   font-style: normal;
@@ -2425,7 +2428,7 @@ body {
   padding-bottom: 0;
 }
 .cid-raI2YYHXtV .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2496,7 +2499,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #0f7699;
 }
 .cid-raI2YYHXtV button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2721,7 +2724,7 @@ body {
 }
 .cid-raI2YYHXtV .nav-link:hover,
 .cid-raI2YYHXtV .dropdown-item:hover {
-  color: #cccccc !important;
+  color: #0f7699 !important;
 }
 .cid-rb8JGIdvY4 {
   padding-top: 90px;
