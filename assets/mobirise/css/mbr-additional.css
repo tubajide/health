@@ -1801,7 +1801,7 @@ body {
 .cid-rb2ZZkrKHI {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #b1a374;
+  background-color: #ffffff;
 }
 .cid-rb2ZZkrKHI .card-box {
   padding: 0 2rem;
@@ -1894,7 +1894,7 @@ body {
 .cid-rb33o2aPWE {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #b1a374;
+  background-color: #ffffff;
 }
 .cid-rb33o2aPWE .card-box {
   padding: 0 2rem;
@@ -1986,7 +1986,7 @@ body {
 .cid-rb37rlU99d {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #b1a374;
+  background-color: #ffffff;
 }
 .cid-rb37rlU99d .card-box {
   padding: 0 2rem;
@@ -2189,11 +2189,13 @@ body {
 }
 .cid-rcHJOOEZWY {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #cebfaf);
 }
 .cid-rcHJOOEZWY .mbr-section-subtitle {
   color: #232323;
+  text-align: right;
 }
 .cid-rcHJOOEZWY .btn {
   margin: 0 0 .5rem 0;
