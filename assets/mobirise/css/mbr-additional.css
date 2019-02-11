@@ -680,6 +680,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -2064,6 +2065,19 @@ body {
 }
 .cid-rb394w1LO7 .card-title {
   text-align: center;
+}
+.cid-rf1pg731VK {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cid-rf1pg731VK .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rf1pg731VK .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rcHLUFAAsO {
   padding-top: 0px;
